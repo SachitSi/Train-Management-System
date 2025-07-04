@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Train_Management_System" target="23" />
+      <module name="Train_Management_System.main" target="23" />
+      <module name="Train_Management_System.test" target="23" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

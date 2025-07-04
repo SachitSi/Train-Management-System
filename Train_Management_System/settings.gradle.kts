@@ -1,1 +1,0 @@
-rootProject.name = "Train_Management_System"
