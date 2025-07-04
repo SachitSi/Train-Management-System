@@ -5,6 +5,9 @@
       <module name="Train_Management_System" target="23" />
       <module name="Train_Management_System.main" target="23" />
       <module name="Train_Management_System.test" target="23" />
+      <module name="TrainManagementSystem" target="23" />
+      <module name="TrainManagementSystem.main" target="23" />
+      <module name="TrainManagementSystem.test" target="23" />
     </bytecodeTargetLevel>
   </component>
 </project>

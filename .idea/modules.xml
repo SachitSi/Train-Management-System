@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Train-Management-System.iml" filepath="$PROJECT_DIR$/.idea/Train-Management-System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TrainManagementSystem.iml" filepath="$PROJECT_DIR$/TrainManagementSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TrainManagementSystem.main.iml" filepath="$PROJECT_DIR$/.idea/modules/TrainManagementSystem.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TrainManagementSystem.test.iml" filepath="$PROJECT_DIR$/.idea/modules/TrainManagementSystem.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/Train_Management_System.iml" filepath="$PROJECT_DIR$/Train_Management_System.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Train_Management_System.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Train_Management_System.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Train_Management_System.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Train_Management_System.test.iml" />
